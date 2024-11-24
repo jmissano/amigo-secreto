@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import InputForm from "./components/InputForm/InputForm";
 import DrawButton from "./components/DrawButton/DrawButton";
 import ResultDisplay from "./components/ResultDisplay/ResultDisplay";
